@@ -1,3 +1,2 @@
 # Spam-Detection
-To detect Spam or Ham messages
-I used NaiveBayes alogorithim to dtect wheteher a given message comes under spam or ham.
+In this project I made a model to detect Spam or Ham messages.  I used Naive Bayes algorithm to detect whether a given message comes under spam or ham.
